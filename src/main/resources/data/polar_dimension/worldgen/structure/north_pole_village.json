@@ -1,0 +1,7 @@
+{
+  "type": "polar_dimension:north_pole_village",
+  "biomes": "polar_dimension:polaris",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none"
+}

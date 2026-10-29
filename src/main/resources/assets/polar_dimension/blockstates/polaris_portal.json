@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "polar_dimension:block/polaris_portal" },
+    "axis=z": { "model": "polar_dimension:block/polaris_portal" }
+  }
+}

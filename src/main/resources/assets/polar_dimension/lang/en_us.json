@@ -1,0 +1,23 @@
+{
+  "biome.polar_dimension.polaris": "Polaris",
+  "block.polar_dimension.polaris_portal": "Polaris Portal",
+  "entity.polar_dimension.christmas_elf": "Christmas Elf (Male)",
+  "entity.polar_dimension.female_christmas_elf": "Christmas Elf (Female)",
+  "item.polar_dimension.christmas_elf_spawn_egg": "Male Christmas Elf Spawn Egg",
+  "item.polar_dimension.female_christmas_elf_spawn_egg": "Female Christmas Elf Spawn Egg",
+  "entity.polar_dimension.reindeer": "Reindeer",
+  "item.polar_dimension.reindeer_spawn_egg": "Reindeer Spawn Egg",
+  "block.polar_dimension.warm_stone_bricks": "Warm Stone Bricks",
+  "block.polar_dimension.warm_cobblestone": "Warm Cobblestone",
+  "entity.polar_dimension.penguin": "Penguin",
+  "item.polar_dimension.penguin_spawn_egg": "Penguin Spawn Egg",
+  "entity.polar_dimension.evil_snowman": "Evil Snowman",
+  "item.polar_dimension.evil_snowman_spawn_egg": "Evil Snowman Spawn Egg",
+  "entity.polar_dimension.disheveled_santa": "Big Nicky",
+  "entity.polar_dimension.giant_santa": "Santa",
+  "item.polar_dimension.giant_santa_spawn_egg": "Santa Spawn Egg",
+  "boss.polar_dimension.big_nicky": "Big Nicky",
+  "item.polar_dimension.disheveled_santa_spawn_egg": "Big Nicky Spawn Egg",
+  "entity.polar_dimension.evil_christmas_elf": "Evil Christmas Elf",
+  "item.polar_dimension.evil_christmas_elf_spawn_egg": "Evil Christmas Elf Spawn Egg"
+}

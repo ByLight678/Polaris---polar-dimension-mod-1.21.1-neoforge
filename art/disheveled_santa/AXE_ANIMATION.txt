@@ -1,0 +1,4 @@
+axe_swing: 1.65 seconds, play once.
+Wind-up 0-0.45s; overhead hold to 0.6s; strike 0.6-0.9s; recover to rest by 1.65s. Suggested hit/damage cue: 0.85 seconds.
+Right arm, axe grip, balancing left arm and head are animated. Existing ritual clips preserved.
+Damage and attack triggering must be connected in mod code.

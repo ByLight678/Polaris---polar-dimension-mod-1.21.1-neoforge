@@ -1,0 +1,22 @@
+{
+  "abandoned_snowy_campsite": {
+    "size": [
+      29,
+      19,
+      27
+    ],
+    "surface_layer": 2,
+    "source_data_version": 4325,
+    "support_repairs": 0
+  },
+  "snowy_igloo": {
+    "size": [
+      21,
+      12,
+      23
+    ],
+    "surface_layer": 1,
+    "source_data_version": 4325,
+    "support_repairs": 0
+  }
+}

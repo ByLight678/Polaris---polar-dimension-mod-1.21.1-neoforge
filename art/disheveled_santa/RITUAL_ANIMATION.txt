@@ -1,0 +1,6 @@
+Ritual animation for Disheveled Santa
+Play ritual_start (0.8 seconds), ritual_chant (4-second loop), then ritual_end (0.8 seconds).
+Arms raise and pulse symmetrically while the head bows, nods and sways. Feet and torso remain stationary.
+Suggested summon cue: 2.0 seconds into ritual_chant, or once per completed chant loop. Actual spawning, particles and sound are not included.
+Native Blockbench clips are embedded in Disheveled Santa.bbmodel. Mod runtime playback/export must be connected separately.
+Reopen the saved model if it is already open in Blockbench.

@@ -1,0 +1,4 @@
+frost_breath: 2.8 seconds, play once.
+Inhale 0-0.6s; lean forward 0.6-0.8s; blowing pose with subtle head pulses 0.8-2.2s; recovery 2.2-2.8s.
+Suggested frost particle and damage window: 0.8-2.2 seconds. Attach emission near the mouth and aim along the animated head forward direction.
+No frost particles, breath damage, sound, or mouth-shape animation included. Previous animation clips preserved.

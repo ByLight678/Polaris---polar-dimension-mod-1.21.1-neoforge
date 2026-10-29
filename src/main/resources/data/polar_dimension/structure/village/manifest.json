@@ -1,0 +1,132 @@
+{
+  "christmas_alpine_house": {
+    "size": [
+      23,
+      22,
+      25
+    ],
+    "source_data_version": 4325,
+    "data_version": 3955,
+    "surface_layer": 1,
+    "blocks": 12650,
+    "entities": 1,
+    "support_repairs": 2
+  },
+  "christmas_cottage": {
+    "size": [
+      23,
+      18,
+      21
+    ],
+    "source_data_version": 4325,
+    "data_version": 3955,
+    "surface_layer": 1,
+    "blocks": 8694,
+    "entities": 2,
+    "support_repairs": 2
+  },
+  "christmas_cranberry_cottage": {
+    "size": [
+      23,
+      18,
+      21
+    ],
+    "source_data_version": 4325,
+    "data_version": 3955,
+    "surface_layer": 1,
+    "blocks": 8694,
+    "entities": 0,
+    "support_repairs": 2
+  },
+  "christmas_gift_shop": {
+    "size": [
+      21,
+      15,
+      19
+    ],
+    "source_data_version": 4325,
+    "data_version": 3955,
+    "surface_layer": 1,
+    "blocks": 5985,
+    "entities": 0,
+    "support_repairs": 22
+  },
+  "christmas_lodge": {
+    "size": [
+      27,
+      19,
+      25
+    ],
+    "source_data_version": 4325,
+    "data_version": 3955,
+    "surface_layer": 1,
+    "blocks": 12825,
+    "entities": 2,
+    "support_repairs": 0
+  },
+  "christmas_reindeer_stable": {
+    "size": [
+      47,
+      25,
+      43
+    ],
+    "source_data_version": 4325,
+    "data_version": 3955,
+    "surface_layer": 1,
+    "blocks": 50525,
+    "entities": 4,
+    "support_repairs": 20
+  },
+  "christmas_restaurant": {
+    "size": [
+      29,
+      22,
+      27
+    ],
+    "source_data_version": 4325,
+    "data_version": 3955,
+    "surface_layer": 1,
+    "blocks": 17226,
+    "entities": 0,
+    "support_repairs": 2
+  },
+  "christmas_town_tree": {
+    "size": [
+      35,
+      39,
+      35
+    ],
+    "source_data_version": 4325,
+    "data_version": 3955,
+    "surface_layer": 1,
+    "blocks": 47775,
+    "entities": 2,
+    "support_repairs": 0
+  },
+  "christmas_townhouse": {
+    "size": [
+      23,
+      21,
+      23
+    ],
+    "source_data_version": 4325,
+    "data_version": 3955,
+    "surface_layer": 1,
+    "blocks": 11109,
+    "entities": 2,
+    "support_repairs": 9
+  },
+  "christmas_toy_workshop": {
+    "size": [
+      35,
+      29,
+      31
+    ],
+    "source_data_version": 4325,
+    "data_version": 3955,
+    "surface_layer": 7,
+    "blocks": 31465,
+    "entities": 0,
+    "support_repairs": 16
+  }
+}

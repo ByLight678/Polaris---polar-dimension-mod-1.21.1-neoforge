@@ -1,0 +1,11 @@
+{
+  "type": "polar_dimension:polaris",
+  "generator": {
+    "type": "polar_dimension:polaris",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "polar_dimension:polaris"
+    },
+    "settings": "polar_dimension:polaris"
+  }
+}
